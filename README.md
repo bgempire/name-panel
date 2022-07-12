@@ -1,3 +1,3 @@
-Version 1.6
+# Name Panel addon for Blender 2.79
 
-More information on the <a href='https://cgcookiemarkets.com/all-products/name-panel/'>Blender Market</a>
+**Original author:** Trentin Frederick (proxe)
